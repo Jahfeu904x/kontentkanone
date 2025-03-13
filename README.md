@@ -1,8 +1,8 @@
-# Kontent Kanone 🚀
+# Kontent Kannon 🚀
 
 ## Overview
 
-Kontent Kanone is a Web3-powered content distribution tool built on Solana. It enables users to blast their content across Web2 and Web3 platforms with a single transaction, ensuring permanent on-chain storage and automated multi-platform publishing.
+Kontent Kannon is a Web3-powered content distribution tool built on Solana. It enables users to blast their content across Web2 and Web3 platforms with a single transaction, ensuring permanent on-chain storage and automated multi-platform publishing.
 
 ## Features
 
